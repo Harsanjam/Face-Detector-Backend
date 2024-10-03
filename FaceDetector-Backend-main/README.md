@@ -7,7 +7,7 @@
   * Bcrypt for password hashing
  
 This is the backend of the face detector App.
-The frontend can be found here: https://github.com/adamazizi10/face-detector
+The frontend can be found here: https://github.com/Harsanjam/Face-Detector
 
     
 ## More Details
